@@ -1,0 +1,2 @@
+# shoppeal_course_page_details_page
+final design
